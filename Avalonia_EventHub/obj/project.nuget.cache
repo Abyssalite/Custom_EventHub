@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zP9fqkL1MrY=",
+  "success": true,
+  "projectFilePath": "/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/Avalonia_EventHub.csproj",
+  "expectedPackageFiles": [
+    "/home/huynguyen/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.7/microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "/home/huynguyen/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.7/microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

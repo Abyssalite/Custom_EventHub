@@ -1,0 +1,12 @@
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/bin/Debug/net9.0/Avalonia_EventHub.deps.json
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/bin/Debug/net9.0/Avalonia_EventHub.dll
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/bin/Debug/net9.0/Avalonia_EventHub.pdb
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/obj/Debug/net9.0/Avalonia_EventHub.GeneratedMSBuildEditorConfig.editorconfig
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/obj/Debug/net9.0/Avalonia_EventHub.AssemblyInfoInputs.cache
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/obj/Debug/net9.0/Avalonia_EventHub.AssemblyInfo.cs
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/obj/Debug/net9.0/Avalonia_EventHub.csproj.CoreCompileInputs.cache
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/obj/Debug/net9.0/Avalonia_EventHub.dll
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/obj/Debug/net9.0/refint/Avalonia_EventHub.dll
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/obj/Debug/net9.0/Avalonia_EventHub.pdb
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/obj/Debug/net9.0/ref/Avalonia_EventHub.dll
+/home/huynguyen/CsProject/Avalonia_EventHub/Avalonia_EventHub/obj/Debug/net9.0/Avalonia_EventHub.csproj.AssemblyReference.cache
