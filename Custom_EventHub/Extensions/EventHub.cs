@@ -1,6 +1,6 @@
 using System.Collections.Concurrent;
 
-namespace Avalonia_EventHub;
+namespace Custom_EventHub;
 
 public sealed class EventHub : IEventHub
 {

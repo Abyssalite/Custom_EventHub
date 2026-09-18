@@ -1,6 +1,6 @@
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Avalonia_EventHub;
+namespace Custom_EventHub;
 
 
 public static class ServiceCollectionExtensions

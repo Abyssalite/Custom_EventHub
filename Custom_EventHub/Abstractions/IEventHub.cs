@@ -1,4 +1,4 @@
-namespace Avalonia_EventHub;
+namespace Custom_EventHub;
 
 public interface IEventHub
 {
