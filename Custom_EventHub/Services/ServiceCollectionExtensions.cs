@@ -5,7 +5,7 @@ namespace Custom_EventHub;
 
 public static class ServiceCollectionExtensions
 {
-    public static IServiceCollection AddAvaloniaEventHub(this IServiceCollection services)
+    public static IServiceCollection AddCustomEventHub(this IServiceCollection services)
     {
         services.AddSingleton<IEventHub, EventHub>();
         services.AddSingleton<IPropertyChangeObserver, PropertyChangeObserver>();
